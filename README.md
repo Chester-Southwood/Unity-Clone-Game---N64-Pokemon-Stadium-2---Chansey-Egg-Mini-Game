@@ -12,9 +12,9 @@ This is a basic clone that uses the fundemental layout of the game, with enemies
 
 # TODOS (If I ever wanted to)
 * Clean up UI - Make it dynamically sizable for whatever monitor
-* Add Music/Sound effects from game or close to it
-* Create "Egg Drop Animation" when player is struck by enemy
-* Play around with different enemy patterns/speeds
+[x] Add Music/Sound effects from game or close to it
+[x] Create "Egg Drop Animation" when player is struck by enemy
+[] Play around with different enemy patterns/speeds
 
 # References
 * [DoTween Demo by Tarodev](https://www.youtube.com/watch?v=Y8cv-rF5j6c)
