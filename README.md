@@ -14,10 +14,11 @@ This is a basic clone that uses the fundemental layout of the game, with enemies
 [] Clean up UI - Make it dynamically sizable for whatever monitor / Web GL / Mobile Device
 [] Play around with different enemy patterns/speeds - Create Modes
 [] Create Pause Menu
-[] Create Start Menu
+[] Add Configuration Logic to Start Menu (Need to save settings and retrieve between scenes)
 [] Create Game Over Menu (For both success or failure)
 [] Use Save System for Configurations / High Score
 
 # References
 * [DoTween Demo by Tarodev](https://www.youtube.com/watch?v=Y8cv-rF5j6c)
 * [Endless Runner by Blackthornprod](https://www.youtube.com/watch?v=FVCW5189ev)
+* [Start Menu in Unity by Brackeys](https://www.youtube.com/watch?v=zc8ac_qUXQY&ab_channel=Brackeys)
